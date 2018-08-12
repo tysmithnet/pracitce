@@ -1,0 +1,32 @@
+-- Example 0
+VIKING
+
+Possible
+-- Example 1
+BCAB
+
+Impossible
+-- Example 2
+XX
+
+Impossible
+-- Example 3
+A
+
+Impossible
+-- Example 4
+AABB
+
+Possible
+-- Example 5
+QWERTYY
+
+Possible
+-- Example 6
+ITHINKYOUAREAHUMAN
+
+Impossible
+-- Example 7
+BOB
+
+Possible
